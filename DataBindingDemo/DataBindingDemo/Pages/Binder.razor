@@ -1,8 +1,8 @@
 ﻿@page "/binder"
 <h3>Binder</h3>
 
-<input type="number" @bind-value="@num" @bind-value:event="oninput"  />
-<input type="checkbox" @bind-checked="@isChecked" @bind-checked:event="onchange" />
+<input type="number" @bind="@num" @bind:event="oninput"  />
+<input type="checkbox" @bind="@isChecked" @bind:event="onchange" />
 <button @onclick="UpdateValue" >change Value</button>
 <br />
 <p>@num</p>
