@@ -631,3 +631,6 @@ C:\Users\Admin\Documents\GitHub\Blazor\BlazorComponentLifecycleDemo\BlazorCompon
 C:\Users\Admin\Documents\GitHub\Blazor\BlazorComponentLifecycleDemo\BlazorComponentLifecycleDemo\obj\Debug\net5.0\BlazorComponentLifecycleDemo.dll
 C:\Users\Admin\Documents\GitHub\Blazor\BlazorComponentLifecycleDemo\BlazorComponentLifecycleDemo\obj\Debug\net5.0\ref\BlazorComponentLifecycleDemo.dll
 C:\Users\Admin\Documents\GitHub\Blazor\BlazorComponentLifecycleDemo\BlazorComponentLifecycleDemo\obj\Debug\net5.0\BlazorComponentLifecycleDemo.pdb
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorComponentLifecycleDemo\BlazorComponentLifecycleDemo\obj\Debug\net5.0\BlazorComponentLifecycleDemo.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorComponentLifecycleDemo\BlazorComponentLifecycleDemo\obj\Debug\net5.0\RazorDeclaration\Pages\ChildComponent.razor.g.cs
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorComponentLifecycleDemo\BlazorComponentLifecycleDemo\obj\Debug\net5.0\Razor\Pages\ChildComponent.razor.g.cs

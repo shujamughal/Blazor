@@ -91,16 +91,21 @@ using BlazorComponentLifecycleDemo.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 7 "C:\Users\Admin\Documents\GitHub\Blazor\BlazorComponentLifecycleDemo\BlazorComponentLifecycleDemo\Pages\Component1.razor"
+#line 8 "C:\Users\Admin\Documents\GitHub\Blazor\BlazorComponentLifecycleDemo\BlazorComponentLifecycleDemo\Pages\Component1.razor"
         
 
+    void m1()
+    {
+        c = c + 1;
+        Param1 = "setting in m1"+c;
+    }
+    int c = 1;
     string message;
     [Parameter]
     public string Param1 { get; set; }
     public override async Task SetParametersAsync(ParameterView parameters)
     {
-        //await base.SetParametersAsync(parameters);
-        await Task.Delay(1);
+        await base.SetParametersAsync(parameters);
         if (parameters.TryGetValue<string>(nameof(Param1), out var value)) {
 
             if (value is null)
@@ -116,9 +121,21 @@ using BlazorComponentLifecycleDemo.Shared;
 
 
         }
+        Console.WriteLine("SetParametersAsync");
 
     }
+    protected override void OnParametersSet()
+    {
+        base.OnParametersSet();
+        Console.WriteLine("OnParametersSet");
+    }
 
+    protected override void OnAfterRender(bool firstRender)
+    {
+        Console.WriteLine("OnAfterRender");
+
+        base.OnAfterRender(firstRender);
+    }
 
 #line default
 #line hidden

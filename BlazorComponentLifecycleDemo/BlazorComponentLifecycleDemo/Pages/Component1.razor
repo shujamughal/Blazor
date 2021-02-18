@@ -3,9 +3,16 @@
 
 <p>@message</p>
 <p>@Param1</p>
-
+<button @onclick="m1">click me</button>
+<ChildComponent MyPara="@Param1"></ChildComponent>
 @code { 
 
+    void m1()
+    {
+        c = c + 1;
+        Param1 = "setting in m1"+c;
+    }
+    int c = 1;
     string message;
     [Parameter]
     public string Param1 { get; set; }
@@ -27,7 +34,19 @@
 
 
         }
+        Console.WriteLine("SetParametersAsync");
 
     }
+    protected override void OnParametersSet()
+    {
+        base.OnParametersSet();
+        Console.WriteLine("OnParametersSet");
+    }
 
+    protected override void OnAfterRender(bool firstRender)
+    {
+        Console.WriteLine("OnAfterRender");
+
+        base.OnAfterRender(firstRender);
+    }
 }
