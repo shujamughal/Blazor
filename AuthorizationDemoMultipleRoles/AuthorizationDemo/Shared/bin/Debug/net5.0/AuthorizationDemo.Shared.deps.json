@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AuthorizationDemo.Shared/1.0.0": {
+        "runtime": {
+          "AuthorizationDemo.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AuthorizationDemo.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\AuthorizationDemo\AuthorizationDemo\Shared\bin\Debug\net5.0\AuthorizationDemo.Shared.deps.json
+C:\Users\Admin\source\repos\AuthorizationDemo\AuthorizationDemo\Shared\bin\Debug\net5.0\AuthorizationDemo.Shared.dll
+C:\Users\Admin\source\repos\AuthorizationDemo\AuthorizationDemo\Shared\bin\Debug\net5.0\ref\AuthorizationDemo.Shared.dll
+C:\Users\Admin\source\repos\AuthorizationDemo\AuthorizationDemo\Shared\bin\Debug\net5.0\AuthorizationDemo.Shared.pdb
+C:\Users\Admin\source\repos\AuthorizationDemo\AuthorizationDemo\Shared\obj\Debug\net5.0\AuthorizationDemo.Shared.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AuthorizationDemo\AuthorizationDemo\Shared\obj\Debug\net5.0\AuthorizationDemo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\AuthorizationDemo\AuthorizationDemo\Shared\obj\Debug\net5.0\AuthorizationDemo.Shared.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AuthorizationDemo\AuthorizationDemo\Shared\obj\Debug\net5.0\AuthorizationDemo.Shared.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AuthorizationDemo\AuthorizationDemo\Shared\obj\Debug\net5.0\AuthorizationDemo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AuthorizationDemo\AuthorizationDemo\Shared\obj\Debug\net5.0\AuthorizationDemo.Shared.dll
+C:\Users\Admin\source\repos\AuthorizationDemo\AuthorizationDemo\Shared\obj\Debug\net5.0\ref\AuthorizationDemo.Shared.dll
+C:\Users\Admin\source\repos\AuthorizationDemo\AuthorizationDemo\Shared\obj\Debug\net5.0\AuthorizationDemo.Shared.pdb
