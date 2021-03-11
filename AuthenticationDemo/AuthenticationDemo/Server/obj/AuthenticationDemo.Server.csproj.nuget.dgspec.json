@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\AuthenticationDemo\\AuthenticationDemo\\Server\\AuthenticationDemo.Server.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthenticationDemo\\AuthenticationDemo\\Server\\AuthenticationDemo.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\AuthenticationDemo\\AuthenticationDemo\\Client\\AuthenticationDemo.Client.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthenticationDemo\\AuthenticationDemo\\Client\\AuthenticationDemo.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\AuthenticationDemo\\AuthenticationDemo\\Client\\AuthenticationDemo.Client.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthenticationDemo\\AuthenticationDemo\\Client\\AuthenticationDemo.Client.csproj",
         "projectName": "AuthenticationDemo.Client",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\AuthenticationDemo\\AuthenticationDemo\\Client\\AuthenticationDemo.Client.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthenticationDemo\\AuthenticationDemo\\Client\\AuthenticationDemo.Client.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\AuthenticationDemo\\AuthenticationDemo\\Client\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthenticationDemo\\AuthenticationDemo\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\source\\repos\\AuthenticationDemo\\AuthenticationDemo\\Shared\\AuthenticationDemo.Shared.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\AuthenticationDemo\\AuthenticationDemo\\Shared\\AuthenticationDemo.Shared.csproj"
+              "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthenticationDemo\\AuthenticationDemo\\Shared\\AuthenticationDemo.Shared.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthenticationDemo\\AuthenticationDemo\\Shared\\AuthenticationDemo.Shared.csproj"
               }
             }
           }
@@ -79,7 +79,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
-              "version": "[5.0.3, 5.0.3]"
+              "version": "[5.0.4, 5.0.4]"
             }
           ],
           "frameworkReferences": {
@@ -87,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -96,14 +96,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\source\\repos\\AuthenticationDemo\\AuthenticationDemo\\Server\\AuthenticationDemo.Server.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthenticationDemo\\AuthenticationDemo\\Server\\AuthenticationDemo.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\AuthenticationDemo\\AuthenticationDemo\\Server\\AuthenticationDemo.Server.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthenticationDemo\\AuthenticationDemo\\Server\\AuthenticationDemo.Server.csproj",
         "projectName": "AuthenticationDemo.Server",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\AuthenticationDemo\\AuthenticationDemo\\Server\\AuthenticationDemo.Server.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthenticationDemo\\AuthenticationDemo\\Server\\AuthenticationDemo.Server.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\AuthenticationDemo\\AuthenticationDemo\\Server\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthenticationDemo\\AuthenticationDemo\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -120,11 +120,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\source\\repos\\AuthenticationDemo\\AuthenticationDemo\\Client\\AuthenticationDemo.Client.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\AuthenticationDemo\\AuthenticationDemo\\Client\\AuthenticationDemo.Client.csproj"
+              "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthenticationDemo\\AuthenticationDemo\\Client\\AuthenticationDemo.Client.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthenticationDemo\\AuthenticationDemo\\Client\\AuthenticationDemo.Client.csproj"
               },
-              "C:\\Users\\Admin\\source\\repos\\AuthenticationDemo\\AuthenticationDemo\\Shared\\AuthenticationDemo.Shared.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\AuthenticationDemo\\AuthenticationDemo\\Shared\\AuthenticationDemo.Shared.csproj"
+              "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthenticationDemo\\AuthenticationDemo\\Shared\\AuthenticationDemo.Shared.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthenticationDemo\\AuthenticationDemo\\Shared\\AuthenticationDemo.Shared.csproj"
               }
             }
           }
@@ -166,6 +166,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[5.0.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             }
           },
           "imports": [
@@ -186,18 +190,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\source\\repos\\AuthenticationDemo\\AuthenticationDemo\\Shared\\AuthenticationDemo.Shared.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthenticationDemo\\AuthenticationDemo\\Shared\\AuthenticationDemo.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\AuthenticationDemo\\AuthenticationDemo\\Shared\\AuthenticationDemo.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthenticationDemo\\AuthenticationDemo\\Shared\\AuthenticationDemo.Shared.csproj",
         "projectName": "AuthenticationDemo.Shared",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\AuthenticationDemo\\AuthenticationDemo\\Shared\\AuthenticationDemo.Shared.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthenticationDemo\\AuthenticationDemo\\Shared\\AuthenticationDemo.Shared.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\AuthenticationDemo\\AuthenticationDemo\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthenticationDemo\\AuthenticationDemo\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -240,7 +244,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -10,3 +10,14 @@ C:\Users\Admin\source\repos\AuthenticationDemo\AuthenticationDemo\Shared\obj\Deb
 C:\Users\Admin\source\repos\AuthenticationDemo\AuthenticationDemo\Shared\obj\Debug\net5.0\AuthenticationDemo.Shared.dll
 C:\Users\Admin\source\repos\AuthenticationDemo\AuthenticationDemo\Shared\obj\Debug\net5.0\ref\AuthenticationDemo.Shared.dll
 C:\Users\Admin\source\repos\AuthenticationDemo\AuthenticationDemo\Shared\obj\Debug\net5.0\AuthenticationDemo.Shared.pdb
+C:\Users\Admin\Documents\GitHub\Blazor\AuthenticationDemo\AuthenticationDemo\Shared\bin\Debug\net5.0\AuthenticationDemo.Shared.deps.json
+C:\Users\Admin\Documents\GitHub\Blazor\AuthenticationDemo\AuthenticationDemo\Shared\bin\Debug\net5.0\AuthenticationDemo.Shared.dll
+C:\Users\Admin\Documents\GitHub\Blazor\AuthenticationDemo\AuthenticationDemo\Shared\bin\Debug\net5.0\ref\AuthenticationDemo.Shared.dll
+C:\Users\Admin\Documents\GitHub\Blazor\AuthenticationDemo\AuthenticationDemo\Shared\bin\Debug\net5.0\AuthenticationDemo.Shared.pdb
+C:\Users\Admin\Documents\GitHub\Blazor\AuthenticationDemo\AuthenticationDemo\Shared\obj\Debug\net5.0\AuthenticationDemo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Blazor\AuthenticationDemo\AuthenticationDemo\Shared\obj\Debug\net5.0\AuthenticationDemo.Shared.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Blazor\AuthenticationDemo\AuthenticationDemo\Shared\obj\Debug\net5.0\AuthenticationDemo.Shared.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Blazor\AuthenticationDemo\AuthenticationDemo\Shared\obj\Debug\net5.0\AuthenticationDemo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Blazor\AuthenticationDemo\AuthenticationDemo\Shared\obj\Debug\net5.0\AuthenticationDemo.Shared.dll
+C:\Users\Admin\Documents\GitHub\Blazor\AuthenticationDemo\AuthenticationDemo\Shared\obj\Debug\net5.0\ref\AuthenticationDemo.Shared.dll
+C:\Users\Admin\Documents\GitHub\Blazor\AuthenticationDemo\AuthenticationDemo\Shared\obj\Debug\net5.0\AuthenticationDemo.Shared.pdb

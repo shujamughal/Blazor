@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sqqo0uLW9OZgM7P0SR9Yn6/aZz7LLljRIvptn8Ghj0pRi3yeGZNqyxNoC02tBJsoENF2s1HmyQX+T+8WouV8HA==",
+  "dgSpecHash": "LbtMjmFuL9EEvKYpKDAlJj4QBN3dU/DPa3UUeznT7tUa68GnYiE3n1UyBmIWjDcxZlTfzptQEW9SPXsvTmO4DQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\AuthenticationDemo\\AuthenticationDemo\\Client\\AuthenticationDemo.Client.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthenticationDemo\\AuthenticationDemo\\Client\\AuthenticationDemo.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.3\\microsoft.aspnetcore.authorization.5.0.3.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.3\\microsoft.aspnetcore.components.5.0.3.nupkg.sha512",
@@ -33,7 +33,7 @@
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.jsinterop.webassembly\\5.0.3\\microsoft.jsinterop.webassembly.5.0.3.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.3\\microsoft.netcore.app.runtime.browser-wasm.5.0.3.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.4\\microsoft.netcore.app.runtime.browser-wasm.5.0.4.nupkg.sha512"
   ],
   "logs": []
 }

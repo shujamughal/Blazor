@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NVu91dYHtQ1qoULfHEU6k72z0Pl5TXIKxjN0oS5Fm3yvEd7uTTGnhq8ChdUimI1unIdzifvW4g+M2Jz1RSV2sw==",
+  "dgSpecHash": "xGtjHiQH2iHYdNzBeTRqBiS+/UXZaMmE7Bm/AW4P5qmDJZFvgR9pYc6cQvST1ZxBA0NrYx0dFVTt6KFJClENqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\AuthenticationDemo\\AuthenticationDemo\\Shared\\AuthenticationDemo.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthenticationDemo\\AuthenticationDemo\\Shared\\AuthenticationDemo.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
