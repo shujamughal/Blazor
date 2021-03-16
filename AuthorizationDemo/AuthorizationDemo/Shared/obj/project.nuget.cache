@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0jGAJcBl06ccdB7VLhHWr3l1vy8wI+5AexEZ23cg34ikr07fkSRHLRzhmkUI9jAduYA2m7aN/JtgwRXld9HFQw==",
+  "dgSpecHash": "fr7LbniFaTy5ExENYrtzvLM4iGvPb0ccCATgMdxqFN26IGU9yKepLFXkot4jp0Tw7+q5tuFkp9paDtZKu0hcVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\AuthorizationDemo\\AuthorizationDemo\\Shared\\AuthorizationDemo.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthorizationDemo\\AuthorizationDemo\\Shared\\AuthorizationDemo.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

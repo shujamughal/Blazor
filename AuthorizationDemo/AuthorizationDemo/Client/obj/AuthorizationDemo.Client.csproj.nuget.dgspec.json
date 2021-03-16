@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\AuthorizationDemo\\AuthorizationDemo\\Client\\AuthorizationDemo.Client.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthorizationDemo\\AuthorizationDemo\\Client\\AuthorizationDemo.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\AuthorizationDemo\\AuthorizationDemo\\Client\\AuthorizationDemo.Client.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthorizationDemo\\AuthorizationDemo\\Client\\AuthorizationDemo.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\AuthorizationDemo\\AuthorizationDemo\\Client\\AuthorizationDemo.Client.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthorizationDemo\\AuthorizationDemo\\Client\\AuthorizationDemo.Client.csproj",
         "projectName": "AuthorizationDemo.Client",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\AuthorizationDemo\\AuthorizationDemo\\Client\\AuthorizationDemo.Client.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthorizationDemo\\AuthorizationDemo\\Client\\AuthorizationDemo.Client.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\AuthorizationDemo\\AuthorizationDemo\\Client\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthorizationDemo\\AuthorizationDemo\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\source\\repos\\AuthorizationDemo\\AuthorizationDemo\\Shared\\AuthorizationDemo.Shared.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\AuthorizationDemo\\AuthorizationDemo\\Shared\\AuthorizationDemo.Shared.csproj"
+              "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthorizationDemo\\AuthorizationDemo\\Shared\\AuthorizationDemo.Shared.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthorizationDemo\\AuthorizationDemo\\Shared\\AuthorizationDemo.Shared.csproj"
               }
             }
           }
@@ -96,14 +96,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\source\\repos\\AuthorizationDemo\\AuthorizationDemo\\Shared\\AuthorizationDemo.Shared.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthorizationDemo\\AuthorizationDemo\\Shared\\AuthorizationDemo.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\AuthorizationDemo\\AuthorizationDemo\\Shared\\AuthorizationDemo.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthorizationDemo\\AuthorizationDemo\\Shared\\AuthorizationDemo.Shared.csproj",
         "projectName": "AuthorizationDemo.Shared",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\AuthorizationDemo\\AuthorizationDemo\\Shared\\AuthorizationDemo.Shared.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthorizationDemo\\AuthorizationDemo\\Shared\\AuthorizationDemo.Shared.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\AuthorizationDemo\\AuthorizationDemo\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthorizationDemo\\AuthorizationDemo\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

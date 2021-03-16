@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\AuthorizationDemo\\AuthorizationDemo\\Shared\\AuthorizationDemo.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthorizationDemo\\AuthorizationDemo\\Shared\\AuthorizationDemo.Shared.csproj",
       "projectName": "AuthorizationDemo.Shared",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\AuthorizationDemo\\AuthorizationDemo\\Shared\\AuthorizationDemo.Shared.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthorizationDemo\\AuthorizationDemo\\Shared\\AuthorizationDemo.Shared.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\AuthorizationDemo\\AuthorizationDemo\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthorizationDemo\\AuthorizationDemo\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

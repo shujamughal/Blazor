@@ -6784,11 +6784,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\AuthorizationDemo\\AuthorizationDemo\\Server\\AuthorizationDemo.Server.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthorizationDemo\\AuthorizationDemo\\Server\\AuthorizationDemo.Server.csproj",
       "projectName": "AuthorizationDemo.Server",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\AuthorizationDemo\\AuthorizationDemo\\Server\\AuthorizationDemo.Server.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthorizationDemo\\AuthorizationDemo\\Server\\AuthorizationDemo.Server.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\AuthorizationDemo\\AuthorizationDemo\\Server\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthorizationDemo\\AuthorizationDemo\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6805,11 +6805,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\source\\repos\\AuthorizationDemo\\AuthorizationDemo\\Client\\AuthorizationDemo.Client.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\AuthorizationDemo\\AuthorizationDemo\\Client\\AuthorizationDemo.Client.csproj"
+            "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthorizationDemo\\AuthorizationDemo\\Client\\AuthorizationDemo.Client.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthorizationDemo\\AuthorizationDemo\\Client\\AuthorizationDemo.Client.csproj"
             },
-            "C:\\Users\\Admin\\source\\repos\\AuthorizationDemo\\AuthorizationDemo\\Shared\\AuthorizationDemo.Shared.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\AuthorizationDemo\\AuthorizationDemo\\Shared\\AuthorizationDemo.Shared.csproj"
+            "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthorizationDemo\\AuthorizationDemo\\Shared\\AuthorizationDemo.Shared.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthorizationDemo\\AuthorizationDemo\\Shared\\AuthorizationDemo.Shared.csproj"
             }
           }
         }

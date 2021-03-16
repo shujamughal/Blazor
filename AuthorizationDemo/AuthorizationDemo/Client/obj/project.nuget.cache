@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tQ/iFA9e66uwkNzzfAhcgfdhJIPlGl63gh8tn9xieVvSEQLdAe+ZiG6Usw5NNwVn7sAxLcP/y/i4csZstf6Riw==",
+  "dgSpecHash": "VFdfc8wo7OG0u3pigYhHWE3yDETtMqt3CEd6DHbVHQ+s2IW8vMkE9GX4+WCHx4slzPufrgBjDpWZAWmtnoWElw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\AuthorizationDemo\\AuthorizationDemo\\Client\\AuthorizationDemo.Client.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthorizationDemo\\AuthorizationDemo\\Client\\AuthorizationDemo.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.4\\microsoft.aspnetcore.authorization.5.0.4.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.4\\microsoft.aspnetcore.components.5.0.4.nupkg.sha512",

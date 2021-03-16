@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LZqJ1NVoW9C4cIGLwNBzyXguaL8wInkQwPmNrD4xrnP+/CdETsb8J0fxT32dbvNMVwMPbaZPs4c9iL0/CEYbPw==",
+  "dgSpecHash": "k4/wCf5VQD3ZkpyFz98DN4naO256emvcOvbyzMCzJYQW+ZL5aqT8N8va5X68aJ8nfHRKBUfj50vcnQpi7f9i1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\AuthorizationDemo\\AuthorizationDemo\\Server\\AuthorizationDemo.Server.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\AuthorizationDemo\\AuthorizationDemo\\Server\\AuthorizationDemo.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
