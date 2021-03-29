@@ -1,0 +1,116 @@
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\bin\Debug\net5.0\BlazorServerState.StaticWebAssets.xml
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\bin\Debug\net5.0\BlazorServerState.exe
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\bin\Debug\net5.0\BlazorServerState.deps.json
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\bin\Debug\net5.0\BlazorServerState.runtimeconfig.json
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\bin\Debug\net5.0\BlazorServerState.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\bin\Debug\net5.0\BlazorServerState.dll
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\bin\Debug\net5.0\ref\BlazorServerState.dll
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\bin\Debug\net5.0\BlazorServerState.pdb
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\bin\Debug\net5.0\BlazorServerState.Views.dll
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\bin\Debug\net5.0\BlazorServerState.Views.pdb
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\BlazorServerState.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\BlazorServerState.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\BlazorServerState.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\BlazorServerState.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\BlazorServerState.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\BlazorServerState.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\BlazorServerState.RazorComponent.input.cache
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\BlazorServerState.RazorComponent.output.cache
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\RazorDeclaration\BlazorServerState.dll
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\BlazorServerState.TagHelpers.input.cache
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\BlazorServerState.TagHelpers.output.cache
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\BlazorServerState.RazorCoreGenerate.cache
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\BlazorServerState.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\BlazorServerState.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\staticwebassets\BlazorServerState.StaticWebAssets.Manifest.cache
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\staticwebassets\BlazorServerState.StaticWebAssets.xml
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\scopedcss\bundle\BlazorServerState.styles.css
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\scopedcss\projectbundle\BlazorServerState.bundle.scp.css
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\BlazorServerState.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\BlazorServerState.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\BlazorServerState.Views.pdb
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\BlazorServerState.dll
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\ref\BlazorServerState.dll
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\BlazorServerState.pdb
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\BlazorServerState.genruntimeconfig.cache
+C:\Users\Admin\source\repos\BlazorServerState\BlazorServerState\obj\Debug\net5.0\BlazorServerState.csproj.CopyComplete
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\bin\Debug\net5.0\BlazorServerState.StaticWebAssets.xml
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\bin\Debug\net5.0\BlazorServerState.exe
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\bin\Debug\net5.0\BlazorServerState.deps.json
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\bin\Debug\net5.0\BlazorServerState.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\bin\Debug\net5.0\BlazorServerState.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\bin\Debug\net5.0\BlazorServerState.dll
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\bin\Debug\net5.0\ref\BlazorServerState.dll
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\bin\Debug\net5.0\BlazorServerState.pdb
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\bin\Debug\net5.0\BlazorServerState.Views.dll
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\bin\Debug\net5.0\BlazorServerState.Views.pdb
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\BlazorServerState.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\BlazorServerState.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\BlazorServerState.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\BlazorServerState.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\BlazorServerState.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\BlazorServerState.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\BlazorServerState.RazorComponent.input.cache
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\BlazorServerState.RazorComponent.output.cache
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\RazorDeclaration\BlazorServerState.dll
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\BlazorServerState.TagHelpers.input.cache
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\BlazorServerState.TagHelpers.output.cache
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\BlazorServerState.RazorCoreGenerate.cache
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\BlazorServerState.RazorAssemblyInfo.cache
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\BlazorServerState.RazorAssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\staticwebassets\BlazorServerState.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\staticwebassets\BlazorServerState.StaticWebAssets.xml
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\scopedcss\bundle\BlazorServerState.styles.css
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\scopedcss\projectbundle\BlazorServerState.bundle.scp.css
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\BlazorServerState.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\BlazorServerState.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\BlazorServerState.Views.pdb
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\BlazorServerState.dll
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\ref\BlazorServerState.dll
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\BlazorServerState.pdb
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\BlazorServerState.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Blazor\BlazorServerState -PersistantStorage\BlazorServerState\obj\Debug\net5.0\BlazorServerState.csproj.CopyComplete
