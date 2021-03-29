@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\Admin\Documents\GitHub\Blazor\WasmState - Persist state\WasmState\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\Admin\Documents\GitHub\Blazor\WasmState - Persist state\WasmState\obj\Debug\net5.0\scopedcss\bundle\" />
+</StaticWebAssets>

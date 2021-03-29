@@ -1,0 +1,40 @@
+﻿@page "/counter"
+@inject CounterStateService Model
+@inject IJSRuntime js
+@implements IDisposable
+<h1>Counter</h1>
+
+<p>Current count: @Model.CounterCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+@code { 
+
+    protected override void OnAfterRender(bool firstRender)
+    {
+        if (firstRender) {
+            MyStorageHelper helper = new MyStorageHelper(js, Model);
+            helper.Load();
+
+        }
+        base.OnAfterRender(firstRender);
+    }
+    protected override void OnInitialized()
+    {
+
+        Model.OnChange += Handler;
+        base.OnInitialized();
+    }
+    private void Handler() {
+        MyStorageHelper helper = new MyStorageHelper(js, Model);
+        helper.Save();
+    }
+    public void Dispose() {
+        Model.OnChange -= Handler;
+
+    }
+    private void IncrementCount()
+    {
+        Model.CounterCount++;
+    }
+}
