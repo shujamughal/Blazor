@@ -1,0 +1,36 @@
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Shared\bin\Debug\net5.0\SimpleShop.Shared.deps.json
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Shared\bin\Debug\net5.0\SimpleShop.Shared.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Shared\bin\Debug\net5.0\ref\SimpleShop.Shared.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Shared\bin\Debug\net5.0\SimpleShop.Shared.pdb
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Shared\obj\Debug\net5.0\SimpleShop.Shared.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Shared\obj\Debug\net5.0\SimpleShop.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Shared\obj\Debug\net5.0\SimpleShop.Shared.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Shared\obj\Debug\net5.0\SimpleShop.Shared.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Shared\obj\Debug\net5.0\SimpleShop.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Shared\obj\Debug\net5.0\SimpleShop.Shared.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Shared\obj\Debug\net5.0\ref\SimpleShop.Shared.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Shared\obj\Debug\net5.0\SimpleShop.Shared.pdb
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Shared\bin\Debug\net5.0\SimpleShop.Shared.deps.json
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Shared\bin\Debug\net5.0\SimpleShop.Shared.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Shared\bin\Debug\net5.0\ref\SimpleShop.Shared.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Shared\bin\Debug\net5.0\SimpleShop.Shared.pdb
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Shared\obj\Debug\net5.0\SimpleShop.Shared.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Shared\obj\Debug\net5.0\SimpleShop.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Shared\obj\Debug\net5.0\SimpleShop.Shared.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Shared\obj\Debug\net5.0\SimpleShop.Shared.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Shared\obj\Debug\net5.0\SimpleShop.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Shared\obj\Debug\net5.0\SimpleShop.Shared.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Shared\obj\Debug\net5.0\ref\SimpleShop.Shared.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Shared\obj\Debug\net5.0\SimpleShop.Shared.pdb
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Shared\bin\Debug\net5.0\SimpleShop.Shared.deps.json
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Shared\bin\Debug\net5.0\SimpleShop.Shared.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Shared\bin\Debug\net5.0\ref\SimpleShop.Shared.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Shared\bin\Debug\net5.0\SimpleShop.Shared.pdb
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Shared\obj\Debug\net5.0\SimpleShop.Shared.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Shared\obj\Debug\net5.0\SimpleShop.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Shared\obj\Debug\net5.0\SimpleShop.Shared.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Shared\obj\Debug\net5.0\SimpleShop.Shared.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Shared\obj\Debug\net5.0\SimpleShop.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Shared\obj\Debug\net5.0\SimpleShop.Shared.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Shared\obj\Debug\net5.0\ref\SimpleShop.Shared.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Shared\obj\Debug\net5.0\SimpleShop.Shared.pdb

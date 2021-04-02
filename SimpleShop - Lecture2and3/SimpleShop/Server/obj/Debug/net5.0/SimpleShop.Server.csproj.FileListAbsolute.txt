@@ -1,0 +1,180 @@
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Client.StaticWebAssets.xml
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.StaticWebAssets.xml
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.exe
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.deps.json
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.runtimeconfig.json
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\ref\SimpleShop.Server.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.pdb
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.Views.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.Views.pdb
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Client.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Shared.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Client.pdb
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Shared.pdb
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\staticwebassets\SimpleShop.Server.StaticWebAssets.Manifest.cache
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\staticwebassets\SimpleShop.Server.StaticWebAssets.xml
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\scopedcss\bundle\SimpleShop.Server.styles.css
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.TagHelpers.input.cache
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.TagHelpers.output.cache
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.RazorCoreGenerate.cache
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.Views.pdb
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.csproj.CopyComplete
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\ref\SimpleShop.Server.dll
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.pdb
+C:\Users\Admin\source\repos\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Client.StaticWebAssets.xml
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.StaticWebAssets.xml
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.exe
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.deps.json
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\ref\SimpleShop.Server.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.pdb
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.Views.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.Views.pdb
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Client.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Shared.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Client.pdb
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Shared.pdb
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.RazorAssemblyInfo.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.RazorAssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\staticwebassets\SimpleShop.Server.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\staticwebassets\SimpleShop.Server.StaticWebAssets.xml
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\scopedcss\bundle\SimpleShop.Server.styles.css
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.TagHelpers.input.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.TagHelpers.output.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.RazorCoreGenerate.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.Views.pdb
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.csproj.CopyComplete
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\ref\SimpleShop.Server.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.pdb
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Client.StaticWebAssets.xml
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.StaticWebAssets.xml
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.exe
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.deps.json
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\ref\SimpleShop.Server.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.pdb
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.Views.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Server.Views.pdb
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Client.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Shared.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Client.pdb
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\bin\Debug\net5.0\SimpleShop.Shared.pdb
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.RazorAssemblyInfo.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.RazorAssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\obj\Debug\net5.0\staticwebassets\SimpleShop.Server.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\obj\Debug\net5.0\staticwebassets\SimpleShop.Server.StaticWebAssets.xml
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\obj\Debug\net5.0\scopedcss\bundle\SimpleShop.Server.styles.css
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.TagHelpers.input.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.TagHelpers.output.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.RazorCoreGenerate.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.Views.pdb
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.csproj.CopyComplete
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\obj\Debug\net5.0\ref\SimpleShop.Server.dll
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.pdb
+C:\Users\Admin\Documents\GitHub\Blazor\SimpleShop - Lecture2\SimpleShop\Server\obj\Debug\net5.0\SimpleShop.Server.genruntimeconfig.cache

@@ -9,8 +9,9 @@ namespace SimpleShop.Shared
    public class Catalog
     {
         public List<Product> Products { get; set; } = new List<Product>();
-
-        public Product GetProduct(int id) =>
-            Products.SingleOrDefault(p => p.Id == id);
+        public Product GetProduct(int id)
+        => Products.First();
+        /*public Product GetProduct(int id) =>
+            Products.SingleOrDefault(p => p.Id == id);*/
     }
 }

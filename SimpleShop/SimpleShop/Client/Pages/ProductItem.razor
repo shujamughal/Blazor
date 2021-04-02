@@ -5,7 +5,10 @@
         <p class="card-text">  @Product.Price</p>
         <p class="card-text">  @Product.Catagory</p>
         <div class="card-footer">
-            <a  class="btn btn-primary">Add</a>
+            <a  class="btn btn-primary"
+               @onclick="@(async () =>
+                           await Selected.InvokeAsync(Product))">
+               Add</a>
 
         </div>
         
@@ -16,6 +19,9 @@
 @code{
     [Parameter]
     public Product Product { get; set; }
+
+    [Parameter]
+    public EventCallback<Product> Selected { get; set; }
 
     private string ProductImage(Catagory catgory) {
         return $"Images/{catgory.ToString().ToLower()}.png";

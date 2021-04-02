@@ -195,13 +195,13 @@
       "mscorlib.dll": "sha256-Fi+LybwHL\/VGD\/09OxxtYlT6exn9xVU+LdojZ9juR2c=",
       "netstandard.dll": "sha256-P8xX0ad1hKyWWbBxiXl3cYokFlDiuXwp3pqoYatH0kk=",
       "System.Private.CoreLib.dll": "sha256-2km83sNUTrumGJYdDzsN8RnJqv00vKWLCCh0UGajTB4=",
-      "SimpleShop.Shared.dll": "sha256-Hp4zBBDFDcWu7nU3YL7R5ymEjWeHsf0ft3nju+wdHPs=",
-      "SimpleShop.Client.dll": "sha256-\/GocEZajnm8KHiCRraEvx3CxisPiy4OlWZIB+GsJKL4="
+      "SimpleShop.Shared.dll": "sha256-imVGalX8VAY6vea0TWakzs6RoMscSp1Ec2Sq+7hIvh8=",
+      "SimpleShop.Client.dll": "sha256-LVBLqMxd\/FO2xRCGURkdvz9x71M27mFG2mSAMaLibco="
     },
     "lazyAssembly": null,
     "pdb": {
-      "SimpleShop.Shared.pdb": "sha256-V2QORC89u8qvyegVHYO9A78OEaeOXhk\/6qg4cLoNb78=",
-      "SimpleShop.Client.pdb": "sha256-yDuDnIhzqQfB8La2gO04lEhGxyc0VVhwqKQIKACUNHw="
+      "SimpleShop.Shared.pdb": "sha256-MpxrFUsyQYNyZdcWAJU+\/L43DBU2ZeSUX\/fmICNFsGI=",
+      "SimpleShop.Client.pdb": "sha256-S5ipmrJO\/Ob9wh13o7Nr7yIBPCSqYNsEf1IVT81GPuk="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-ibxaSjW7s3aLVssChknhzCpgMTHGu4D48Q9OLP3dfe8=",

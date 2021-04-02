@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5SbqdE1nSGSRn5YvgxtDNcSfQ8CMHqux8eEaggsnMnunPlfFlXcbSPX9dTravn6NQRzbV7j0EtvDCpBPDJiijQ==",
+  "dgSpecHash": "aUmdPpKe1XjitNU2KgiYdcerRxlEDkaeEcr034MnYHyYmAlVSNCE1uHzV9HfO7lbn4yfdG0jvjjpa3/9XFphsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\SimpleShop\\SimpleShop\\Client\\SimpleShop.Client.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\SimpleShop\\SimpleShop\\Client\\SimpleShop.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.4\\microsoft.aspnetcore.authorization.5.0.4.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.4\\microsoft.aspnetcore.components.5.0.4.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\SimpleShop\\SimpleShop\\Client\\SimpleShop.Client.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\SimpleShop\\SimpleShop\\Client\\SimpleShop.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\SimpleShop\\SimpleShop\\Client\\SimpleShop.Client.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\SimpleShop\\SimpleShop\\Client\\SimpleShop.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\SimpleShop\\SimpleShop\\Client\\SimpleShop.Client.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\SimpleShop\\SimpleShop\\Client\\SimpleShop.Client.csproj",
         "projectName": "SimpleShop.Client",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\SimpleShop\\SimpleShop\\Client\\SimpleShop.Client.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\SimpleShop\\SimpleShop\\Client\\SimpleShop.Client.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\SimpleShop\\SimpleShop\\Client\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\SimpleShop\\SimpleShop\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\source\\repos\\SimpleShop\\SimpleShop\\Shared\\SimpleShop.Shared.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\SimpleShop\\SimpleShop\\Shared\\SimpleShop.Shared.csproj"
+              "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\SimpleShop\\SimpleShop\\Shared\\SimpleShop.Shared.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\SimpleShop\\SimpleShop\\Shared\\SimpleShop.Shared.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\source\\repos\\SimpleShop\\SimpleShop\\Shared\\SimpleShop.Shared.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\SimpleShop\\SimpleShop\\Shared\\SimpleShop.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\SimpleShop\\SimpleShop\\Shared\\SimpleShop.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\SimpleShop\\SimpleShop\\Shared\\SimpleShop.Shared.csproj",
         "projectName": "SimpleShop.Shared",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\SimpleShop\\SimpleShop\\Shared\\SimpleShop.Shared.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\SimpleShop\\SimpleShop\\Shared\\SimpleShop.Shared.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\SimpleShop\\SimpleShop\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\SimpleShop\\SimpleShop\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

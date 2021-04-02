@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ab7EKU9HpT3qOJ8MnMpF8QqUKXa7jS2B/c9hekCgiMZQEumYn2Y73+Au1mX+UlObzucAA5Ec6qXMYOgwAL+99w==",
+  "dgSpecHash": "jgZ7XSnaEccN0bFLZpJ0+kXMnZRYiMjJ3Lqt87sQxcdHgpH9q0UZwYFPkCpaCqNylMU+v9i4UIq2aNmcCuh61w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\SimpleShop\\SimpleShop\\Shared\\SimpleShop.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\Blazor\\SimpleShop\\SimpleShop\\Shared\\SimpleShop.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
